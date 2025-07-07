@@ -12,7 +12,6 @@ A project that walks from raw CSVs to business insights and a tiny AI prototype.
 
 | Phase | What I built | Links / files |
 |-------|--------------|---------------|
-| **0** | Colab + DuckDB setup | — |
 | **1** | Data load & sanity checks | `analysis.sql` |
 | **2** | SQL CTE join, top-seller window fn, margin calc | `analysis.sql`, `outputs/order_items.csv` |
 | **3** | Public Tableau dashboard & 5-slide PDF | [Live dashboard](<[Tableau-URL](https://public.tableau.com/views/restaurant_ai_sqlproject/RestaurantInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)>), `outputs/dashboard.png`, `outputs/restaurant_insights_summary.pdf` |
